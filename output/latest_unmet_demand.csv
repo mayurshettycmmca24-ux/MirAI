@@ -1,0 +1,705 @@
+store_id,store_name,model_id,model_name,requested_units,allocated_units,shortfall_units,rupee_shortfall,reason
+MYS-02,MobiMart Kuvempunagar,F08,Samsung Galaxy Z Flip7,1,0,1,78119,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,F03,OnePlus 13,1,0,1,55530,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,F17,iPhone 17 Pro Max,1,0,1,109430,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,M11,Samsung Galaxy A27,1,0,1,20687,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B20,Nokia 3310 Max,3,0,3,25476,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,F10,iPhone 17,1,0,1,66400,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,M18,Nothing Phone (4a),1,0,1,25721,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,M19,Samsung Galaxy A37,1,0,1,29151,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,M19,Samsung Galaxy A37,1,0,1,29151,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,M19,Samsung Galaxy A37,1,0,1,29151,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,M19,Samsung Galaxy A37,1,0,1,29151,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,M19,Samsung Galaxy A37,1,0,1,29151,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B19,Realme C76x,3,0,3,39531,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,F18,Samsung Galaxy Z Fold8,1,0,1,117464,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F18,Samsung Galaxy Z Fold8,1,0,1,117464,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,F03,OnePlus 13,1,0,1,55530,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,B14,Realme Note 70,3,0,3,29778,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,F10,iPhone 17,1,0,1,66400,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,B10,Nokia 3210 4G,2,0,2,14120,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,B01,Nokia 110 Power,2,1,1,6440,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,B17,POCO C85,3,0,3,35550,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,M10,OnePlus Nord 5,1,0,1,25610,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,M10,OnePlus Nord 5,1,0,1,25610,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,F03,OnePlus 13,1,0,1,55530,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,B14,Realme Note 70,3,0,3,29778,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,B14,Realme Note 70,3,0,3,29778,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B14,Realme Note 70,2,0,2,19852,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B17,POCO C85,4,0,4,47400,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F08,Samsung Galaxy Z Flip7,1,0,1,78119,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,B20,Nokia 3310 Max,2,0,2,16984,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B20,Nokia 3310 Max,2,0,2,16984,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F10,iPhone 17,1,0,1,66400,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,B17,POCO C85,5,0,5,59250,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,B07,POCO C75,3,0,3,33855,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,F12,iPhone 17 Pro,1,0,1,98296,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,F12,iPhone 17 Pro,1,0,1,98296,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,F12,iPhone 17 Pro,1,0,1,98296,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,F03,OnePlus 13,1,0,1,55530,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,B14,Realme Note 70,3,0,3,29778,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B13,Redmi A6,2,0,2,17008,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B16,Lava Blaze Core 2,1,0,1,8903,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,B18,Samsung Galaxy F07,2,0,2,21510,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,B17,POCO C85,4,0,4,47400,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,B13,Redmi A6,3,0,3,25512,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B13,Redmi A6,3,0,3,25512,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,F03,OnePlus 13,1,0,1,55530,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,B17,POCO C85,4,0,4,47400,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,F08,Samsung Galaxy Z Flip7,1,0,1,78119,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,B20,Nokia 3310 Max,3,0,3,25476,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,B13,Redmi A6,3,0,3,25512,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F14,Vivo X210,1,0,1,57882,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,F10,iPhone 17,1,0,1,66400,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,F03,OnePlus 13,1,0,1,55530,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,B19,Realme C76x,3,0,3,39531,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B19,Realme C76x,3,0,3,39531,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B14,Realme Note 70,3,0,3,29778,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,M11,Samsung Galaxy A27,1,0,1,20687,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,M11,Samsung Galaxy A27,1,0,1,20687,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,F08,Samsung Galaxy Z Flip7,1,0,1,78119,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,B20,Nokia 3310 Max,3,0,3,25476,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B14,Realme Note 70,3,0,3,29778,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,B14,Realme Note 70,3,0,3,29778,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B06,Lava Blaze Core,3,0,3,24165,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,F10,iPhone 17,1,0,1,66400,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F03,OnePlus 13,1,0,1,55530,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B04,Realme Note 60,2,0,2,17572,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,B13,Redmi A6,3,0,3,25512,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,B13,Redmi A6,3,0,3,25512,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,B11,Nokia 125 Power,2,0,2,15010,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,F15,Pixel 10 Pro,1,0,1,92011,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,B13,Redmi A6,2,0,2,17008,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,F08,Samsung Galaxy Z Flip7,1,0,1,78119,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,B17,POCO C85,2,0,2,23700,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,F10,iPhone 17,1,0,1,66400,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,B14,Realme Note 70,2,0,2,19852,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,B14,Realme Note 70,3,0,3,29778,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,F03,OnePlus 13,1,0,1,55530,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,B19,Realme C76x,2,0,2,26354,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B20,Nokia 3310 Max,2,0,2,16984,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,B20,Nokia 3310 Max,2,0,2,16984,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,B20,Nokia 3310 Max,2,0,2,16984,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B20,Nokia 3310 Max,1,0,1,8492,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B14,Realme Note 70,3,0,3,29778,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,B14,Realme Note 70,3,0,3,29778,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B12,Samsung Galaxy M06,2,0,2,18860,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,F03,OnePlus 13,1,0,1,55530,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,B06,Lava Blaze Core,3,0,3,24165,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,M11,Samsung Galaxy A27,1,0,1,20687,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,F08,Samsung Galaxy Z Flip7,1,0,1,78119,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,B13,Redmi A6,2,0,2,17008,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,B20,Nokia 3310 Max,2,0,2,16984,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B14,Realme Note 70,1,0,1,9926,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,M10,OnePlus Nord 5,1,0,1,25610,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B13,Redmi A6,2,0,2,17008,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,M18,Nothing Phone (4a),1,0,1,25721,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,M18,Nothing Phone (4a),1,0,1,25721,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B14,Realme Note 70,2,0,2,19852,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B14,Realme Note 70,2,0,2,19852,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,B20,Nokia 3310 Max,1,0,1,8492,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B20,Nokia 3310 Max,1,0,1,8492,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,B19,Realme C76x,2,0,2,26354,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,F03,OnePlus 13,1,0,1,55530,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,B13,Redmi A6,1,0,1,8504,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,B14,Realme Note 70,2,0,2,19852,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B20,Nokia 3310 Max,2,0,2,16984,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B19,Realme C76x,1,0,1,13177,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,F14,Vivo X210,1,0,1,57882,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,F14,Vivo X210,1,0,1,57882,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,F13,OnePlus 14,1,0,1,60399,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,F13,OnePlus 14,1,0,1,60399,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,F13,OnePlus 14,1,0,1,60399,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F13,OnePlus 14,1,0,1,60399,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,M05,Vivo V50e,1,0,1,26834,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B02,Samsung Galaxy M05,2,0,2,16892,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,M15,Vivo V51e,1,0,1,26653,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B13,Redmi A6,2,0,2,17008,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,B13,Redmi A6,2,0,2,17008,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,F12,iPhone 17 Pro,1,0,1,98296,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F12,iPhone 17 Pro,1,0,1,98296,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,B20,Nokia 3310 Max,1,0,1,8492,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,M10,OnePlus Nord 5,1,0,1,25610,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,M16,Motorola Edge 70 Fusion,1,0,1,20680,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,B14,Realme Note 70,2,0,2,19852,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,F16,Xiaomi 16,1,0,1,54216,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,F16,Xiaomi 16,1,0,1,54216,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,F16,Xiaomi 16,1,0,1,54216,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,F17,iPhone 17 Pro Max,1,0,1,109430,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F17,iPhone 17 Pro Max,1,0,1,109430,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,F17,iPhone 17 Pro Max,1,0,1,109430,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,M11,Samsung Galaxy A27,1,0,1,20687,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,M11,Samsung Galaxy A27,1,0,1,20687,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,M11,Samsung Galaxy A27,1,0,1,20687,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,F15,Pixel 10 Pro,1,0,1,92011,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,M10,OnePlus Nord 5,1,0,1,25610,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,B13,Redmi A6,1,0,1,8504,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,M18,Nothing Phone (4a),1,0,1,25721,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,M11,Samsung Galaxy A27,1,0,1,20687,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,F08,Samsung Galaxy Z Flip7,1,0,1,78119,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,F08,Samsung Galaxy Z Flip7,1,0,1,78119,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,F08,Samsung Galaxy Z Flip7,1,0,1,78119,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,F08,Samsung Galaxy Z Flip7,1,0,1,78119,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,F10,iPhone 17,1,0,1,66400,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,F10,iPhone 17,1,0,1,66400,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,M12,Redmi Note 15,1,0,1,17217,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,M16,Motorola Edge 70 Fusion,1,0,1,20680,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,F14,Vivo X210,1,0,1,57882,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,F14,Vivo X210,1,0,1,57882,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,F13,OnePlus 14,1,0,1,60399,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,B03,Redmi A5,1,0,1,7401,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,M03,Realme 14 Pro,1,0,1,24373,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,M10,OnePlus Nord 5,1,0,1,25610,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,M10,OnePlus Nord 5,1,0,1,25610,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,M04,OnePlus Nord CE5,1,0,1,21389,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,M04,OnePlus Nord CE5,1,0,1,21389,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,M04,OnePlus Nord CE5,1,0,1,21389,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,M04,OnePlus Nord CE5,1,0,1,21389,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,M14,OnePlus Nord CE6,1,0,1,22726,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,M11,Samsung Galaxy A27,1,0,1,20687,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,M17,POCO X8 Pro,1,0,1,25267,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,F12,iPhone 17 Pro,1,0,1,98296,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,F12,iPhone 17 Pro,1,0,1,98296,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,F12,iPhone 17 Pro,1,0,1,98296,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,M03,Realme 14 Pro,1,0,1,24373,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,M03,Realme 14 Pro,1,0,1,24373,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B03,Redmi A5,1,0,1,7401,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,B03,Redmi A5,1,0,1,7401,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B03,Redmi A5,1,0,1,7401,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,B03,Redmi A5,1,0,1,7401,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,B03,Redmi A5,1,0,1,7401,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,M01,Samsung Galaxy A26,1,0,1,20460,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,M01,Samsung Galaxy A26,1,0,1,20460,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F16,Xiaomi 16,1,0,1,54216,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,F16,Xiaomi 16,1,0,1,54216,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,M10,OnePlus Nord 5,1,0,1,25610,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,F15,Pixel 10 Pro,1,0,1,92011,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,M04,OnePlus Nord CE5,1,0,1,21389,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,F08,Samsung Galaxy Z Flip7,1,0,1,78119,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,B20,Nokia 3310 Max,1,0,1,8492,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,M11,Samsung Galaxy A27,1,0,1,20687,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,M03,Realme 14 Pro,1,0,1,24373,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,M03,Realme 14 Pro,1,0,1,24373,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,M03,Realme 14 Pro,1,0,1,24373,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,M02,Redmi Note 14,1,0,1,16548,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,M02,Redmi Note 14,1,0,1,16548,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B03,Redmi A5,1,0,1,7401,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,F14,Vivo X210,1,0,1,57882,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,F13,OnePlus 14,1,0,1,60399,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F13,OnePlus 14,1,0,1,60399,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,F13,OnePlus 14,1,0,1,60399,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,F13,OnePlus 14,1,0,1,60399,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,M05,Vivo V50e,1,0,1,26834,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,M05,Vivo V50e,1,0,1,26834,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,M05,Vivo V50e,1,0,1,26834,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,M05,Vivo V50e,1,0,1,26834,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B13,Redmi A6,1,0,1,8504,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,B20,Nokia 3310 Max,1,0,1,8492,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,M10,OnePlus Nord 5,1,0,1,25610,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,M10,OnePlus Nord 5,1,0,1,25610,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,M04,OnePlus Nord CE5,1,0,1,21389,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F17,iPhone 17 Pro Max,1,0,1,109430,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,M11,Samsung Galaxy A27,1,0,1,20687,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,M11,Samsung Galaxy A27,1,0,1,20687,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,M01,Samsung Galaxy A26,1,0,1,20460,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,B01,Nokia 110 Power,1,0,1,6440,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,M03,Realme 14 Pro,1,0,1,24373,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B13,Redmi A6,1,0,1,8504,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,M02,Redmi Note 14,1,0,1,16548,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,B03,Redmi A5,1,0,1,7401,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,F10,iPhone 17,1,0,1,66400,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,M10,OnePlus Nord 5,1,0,1,25610,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,M04,OnePlus Nord CE5,1,0,1,21389,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,M04,OnePlus Nord CE5,1,0,1,21389,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,M04,OnePlus Nord CE5,1,0,1,21389,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,M01,Samsung Galaxy A26,1,0,1,20460,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,M01,Samsung Galaxy A26,1,0,1,20460,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B03,Redmi A5,1,0,1,7401,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,B03,Redmi A5,1,0,1,7401,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,M05,Vivo V50e,1,0,1,26834,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,F05,Pixel 9 Pro,1,0,1,89165,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,M03,Realme 14 Pro,1,0,1,24373,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,F01,Samsung Galaxy S25,1,0,1,61349,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,M02,Redmi Note 14,1,0,1,16548,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,M13,Realme 15 Pro,1,0,1,25696,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,M13,Realme 15 Pro,1,0,1,25696,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B01,Nokia 110 Power,1,0,1,6440,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,B01,Nokia 110 Power,1,0,1,6440,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B01,Nokia 110 Power,1,0,1,6440,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,B01,Nokia 110 Power,1,0,1,6440,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F15,Pixel 10 Pro,1,0,1,92011,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,F15,Pixel 10 Pro,1,0,1,92011,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,F15,Pixel 10 Pro,1,0,1,92011,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B03,Redmi A5,1,0,1,7401,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,F07,iPhone 16 Pro,1,0,1,99781,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,F14,Vivo X210,1,0,1,57882,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,F13,OnePlus 14,1,0,1,60399,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,M05,Vivo V50e,1,0,1,26834,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,M05,Vivo V50e,1,0,1,26834,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,B01,Nokia 110 Power,1,0,1,6440,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,M04,OnePlus Nord CE5,1,0,1,21389,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+UDU-01,MobiMart Udupi Main Road,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,B03,Redmi A5,1,0,1,7401,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,M11,Samsung Galaxy A27,1,0,1,20687,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B12,Samsung Galaxy M06,1,0,1,9430,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,M02,Redmi Note 14,1,0,1,16548,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,M02,Redmi Note 14,1,0,1,16548,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,M02,Redmi Note 14,1,0,1,16548,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,F08,Samsung Galaxy Z Flip7,1,0,1,78119,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,B11,Nokia 125 Power,1,0,1,7505,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,B01,Nokia 110 Power,1,0,1,6440,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+MYS-01,MobiMart Devaraja Mohalla,M01,Samsung Galaxy A26,1,0,1,20460,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,M05,Vivo V50e,1,0,1,26834,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,M05,Vivo V50e,1,0,1,26834,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,M05,Vivo V50e,1,0,1,26834,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,F09,OnePlus Open 2,1,0,1,97367,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,F04,Vivo X200,1,0,1,53816,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,F06,Xiaomi 15,1,0,1,53059,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+BEL-01,MobiMart Cantonment,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+SHI-01,MobiMart Vidya Nagar,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,F02,iPhone 16,1,0,1,66229,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,F11,Samsung Galaxy S26,1,0,1,66735,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,B13,Redmi A6,1,0,1,8504,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B01,Nokia 110 Power,1,0,1,6440,budget exhausted before full demand could be covered
+BLR-06,MobiMart Rajajinagar,M09,Samsung Galaxy A36,1,0,1,28135,budget exhausted before full demand could be covered
+MAN-01,MobiMart Court Road,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+HUB-01,MobiMart Vidya Nagar,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,B08,Samsung Galaxy F06,1,0,1,9684,budget exhausted before full demand could be covered
+BLR-01,MobiMart Jayanagar,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+BEL-02,MobiMart Tilakwadi,B06,Lava Blaze Core,1,0,1,8055,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,B03,Redmi A5,1,0,1,7401,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+DAV-02,MobiMart MCC B Block,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+HOS-01,MobiMart Hosur Road,M06,Motorola Edge 60 Fusion,1,0,1,20129,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,M08,Nothing Phone (3a),1,0,1,24519,budget exhausted before full demand could be covered
+BLR-02,MobiMart Koramangala,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+HUB-02,MobiMart Gokul Road,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+TUM-02,MobiMart SS Puram,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+MAN-02,MobiMart Kottara,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+BLR-05,MobiMart Malleshwaram,M07,POCO X7 Pro,1,0,1,23908,budget exhausted before full demand could be covered
+BLR-03,MobiMart Indiranagar,B07,POCO C75,1,0,1,11285,budget exhausted before full demand could be covered
+BLR-07,MobiMart Yelahanka,M01,Samsung Galaxy A26,1,0,1,20460,budget exhausted before full demand could be covered
+DAV-01,MobiMart PJ Extension,B01,Nokia 110 Power,1,0,1,6440,budget exhausted before full demand could be covered
+MYS-02,MobiMart Kuvempunagar,B05,Moto G15 Play,1,0,1,10127,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B04,Realme Note 60,1,0,1,8786,budget exhausted before full demand could be covered
+BLR-04,MobiMart Whitefield,B09,Realme C75x,1,0,1,12085,budget exhausted before full demand could be covered
+BLR-08,MobiMart Electronic City,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+TUM-01,MobiMart MG Road,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+KOL-01,MobiMart Station Road,B02,Samsung Galaxy M05,1,0,1,8446,budget exhausted before full demand could be covered
+KAL-01,MobiMart KCD Road,B10,Nokia 3210 4G,1,0,1,7060,budget exhausted before full demand could be covered

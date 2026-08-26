@@ -1,0 +1,3 @@
+strategy,predicted_gross_profit,realized_gross_profit,markdown_loss,stockouts
+naive_baseline,5562296.1007,372851.5664,9998641.0,336
+real_engine,6869860.3313,1940571.2939,8056664.0,291
